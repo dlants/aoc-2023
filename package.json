@@ -106,7 +106,9 @@
   },
   "private": true,
   "dependencies": {
+    "@types/lodash": "^4.14.202",
     "chalk": "latest",
+    "lodash": "^4.17.21",
     "ts-aoc-starter": "1.0.4"
   },
   "devDependencies": {
