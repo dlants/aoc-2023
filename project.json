@@ -143,7 +143,9 @@
     "day-12-b": {
       "executor": "ts-aoc-starter:puzzle",
       "options": {
-        "target": "day-12-b"
+        "target": "day-12-b",
+        "inspect": true,
+        "inspect-brk": true
       }
     },
     "day-13-a": {
